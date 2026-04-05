@@ -1,3 +1,5 @@
+🧬🤖DiabAI – Intelligent Diabetes Risk Prediction & Personal Health Assistant
+
 🧬 Diabetes is one of the fastest-growing global health challenges. Early detection can change lives — and that’s exactly what my project aims to do.
 
 💡 DiabAI – Your Diabetes Diagnosis Guidance with Personal Chatbot Assistant - A smart, interactive web platform designed to predict the likelihood of diabetes and provide personalized health guidance in a simple, accessible way.
