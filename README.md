@@ -1,4 +1,4 @@
-🧬🤖DiabAI – Intelligent Diabetes Risk Prediction & Personal Health Assistant
+# 🧬🤖DiabAI – Intelligent Diabetes Risk Prediction & Personal Health Assistant
 
 🧬 Diabetes is one of the fastest-growing global health challenges. Early detection can change lives — and that’s exactly what my project aims to do.
 
